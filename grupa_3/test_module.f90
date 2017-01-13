@@ -1,0 +1,11 @@
+MODULE test_module
+IMPLICIT NONE
+CHARACTER(LEN=128), ALLOCATABLE, DIMENSION(:) :: argument
+
+CONTAINS
+SUBROUTINE writer
+
+WRITE(*,*) "Fizikalni zavod je zakon!"
+
+END SUBROUTINE writer
+END MODULE
