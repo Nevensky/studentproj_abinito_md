@@ -167,7 +167,7 @@ IMPLICIT NONE
 
 INTEGER(KIND=4) :: N=0
 
-OPEN(10, file='EM.mop', STATUS='NEW', ACTION='WRITE' )
+OPEN(10, file='EM.mop', ACTION='WRITE' )
 
 WRITE(10,*) "PM7 OPT XYZ" 
 WRITE(10,*) "Optimization of structure given as argument"
@@ -181,6 +181,54 @@ WRITE(10,*) "       "
 CLOSE(10)
 
          END SUBROUTINE ingen
+!****************************************************!
+!****************************************************!
+
+
+SUBROUTINE mopac_read
+!~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=!
+!~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=!
+
+IMPLICIT NONE
+
+INTEGER(KIND=4) :: blank_1=0, i=0, N=0, K=0
+INTEGER(KIND=4) :: istat=0, brojac=0
+CHARACTER(LEN=128) :: check_line
+
+ALLOCATE(new_atoms(n_atoms))
+blank_1=0
+i = 0
+k = 0
+OPEN(UNIT=20, FILE="EM.out", STATUS="OLD", ACTION="READ")
+   DO WHILE (blank_1 == 0)
+      k = k + 1
+      READ(20,"(a128)") check_line
+      blank_1 = INDEX (check_line, "CARTESIAN COORDINATES")
+   END DO
+   blank_1=0
+   DO WHILE (blank_1 == 0)
+      k = k + 1
+      READ(20,"(a128)") check_line
+      blank_1 = INDEX (check_line, "CARTESIAN COORDINATES")
+   END DO
+   WRITE(*,*) "K is:", k
+READ(20, *) 
+   DO N = 1 , n_atoms
+      READ(20, *) i, new_atoms(N)%symbol, new_atoms(N)%coord(1), &
+                     new_atoms(N)%coord(2), new_atoms(N)%coord(3) 
+   END DO
+CLOSE(20)
+
+   DO N = 1, n_atoms
+      new_atoms(N)%rel_mass = atoms(N)%rel_mass
+      new_atoms(N)%a_number = atoms(N)%a_number
+   END DO
+
+   DO N = 1 , n_atoms
+      WRITE(*, *)  new_atoms(N)%symbol, new_atoms(N)%coord(1), &
+                     new_atoms(N)%coord(2), new_atoms(N)%coord(3) 
+   END DO
+         END SUBROUTINE mopac_read
 !****************************************************!
 !****************************************************!
 

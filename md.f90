@@ -70,9 +70,7 @@ num_args = COMMAND_ARGUMENT_COUNT()
                         ! log_arg = xyz_arg(1:(xyz_check-1))//".log"
 
      INQUIRE(FILE=mdp_arg, EXIST=file_exists)
-           IF (file_exists) THEN
-                   CONTINUE
-           ELSE
+           IF (.NOT. file_exists) THEN
                     CALL create_mdp
                     STOP
            END IF
@@ -80,6 +78,7 @@ num_args = COMMAND_ARGUMENT_COUNT()
 CALL structure_read
 CALL ingen
 CALL EXECUTE_COMMAND_LINE('mopac EM.mop')
+CALL mopac_read
 
 WRITE(*,*) "Program completed!"
           STOP

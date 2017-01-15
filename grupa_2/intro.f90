@@ -3,7 +3,6 @@
 !Password tc999iwq678 
 
 PROGRAM UGA
-   IMPLICIT NONE 
 
 INTEGER :: A = 1, B=1
 
