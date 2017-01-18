@@ -1,0 +1,1001 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"randn",
+				"randn_out"
+			],
+			[
+				"his",
+				"histogram_attachment"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"mdp",
+				"mdp_lambdas"
+			],
+			[
+				"bond",
+				"bonded_lambdas"
+			],
+			[
+				"tem",
+				"temperature_lambdas"
+			],
+			[
+				"rest",
+				"restraint_lambdas"
+			],
+			[
+				"temp",
+				"temp_lambdas"
+			],
+			[
+				"mass",
+				"mass_lambdas"
+			],
+			[
+				"coul",
+				"coul_lambdas"
+			],
+			[
+				"new",
+				"new_file"
+			],
+			[
+				"vdw",
+				"vdw_lambdas"
+			],
+			[
+				"dd",
+				"ddG_x2"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"ddG",
+				"ddG_y"
+			],
+			[
+				"d",
+				"ddG_y2"
+			],
+			[
+				"lin",
+				"linspace"
+			],
+			[
+				"f",
+				"fillstyle"
+			],
+			[
+				"eq",
+				"equi_ddGs"
+			],
+			[
+				"equi",
+				"equi_ddGs"
+			],
+			[
+				"ddg",
+				"ddG_y_interp"
+			],
+			[
+				"lam",
+				"lambdas"
+			],
+			[
+				"re",
+				"restraint"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"l",
+				"lambda_i"
+			],
+			[
+				"restar",
+				"restart_mode"
+			],
+			[
+				"ec",
+				"ecutrho"
+			],
+			[
+				"H",
+				"h"
+			],
+			[
+				"task",
+				"task_energy"
+			],
+			[
+				"energy",
+				"energy_dft"
+			],
+			[
+				"g",
+				"ga_nodeid"
+			],
+			[
+				"onS",
+				"onSuccess"
+			],
+			[
+				"on",
+				"onSuccess2"
+			],
+			[
+				"p",
+				"post_tag"
+			],
+			[
+				"post",
+				"post_tags"
+			],
+			[
+				"pr",
+				"prvi_tag"
+			],
+			[
+				"pos",
+				"posts_tags"
+			],
+			[
+				"tag",
+				"tag_ids"
+			],
+			[
+				"posts",
+				"posts_tags"
+			],
+			[
+				"sintez",
+				"sinteza_inp"
+			],
+			[
+				"x",
+				"XRPD"
+			],
+			[
+				"ota",
+				"otapalo"
+			],
+			[
+				"ex",
+				"exp_t"
+			],
+			[
+				"da",
+				"day_of_week"
+			],
+			[
+				"mol",
+				"molarsearch"
+			],
+			[
+				"m1",
+				"m1"
+			],
+			[
+				"_",
+				"_br"
+			],
+			[
+				"bas",
+				"bashCommand"
+			],
+			[
+				"ener",
+				"energije"
+			],
+			[
+				"as",
+				"asarray"
+			],
+			[
+				"grup",
+				"grupiraj_energije"
+			],
+			[
+				"e",
+				"energije"
+			],
+			[
+				"en",
+				"enumerate"
+			],
+			[
+				"grupe",
+				"grupe_array"
+			],
+			[
+				"gru",
+				"grupe_array"
+			],
+			[
+				"t_in",
+				"t_incl"
+			],
+			[
+				"y",
+				"y_incl"
+			],
+			[
+				"so",
+				"solvident_full"
+			],
+			[
+				"grupi",
+				"grupiranje2"
+			],
+			[
+				"t_inc",
+				"t_incl_full"
+			],
+			[
+				"tab",
+				"tab_t"
+			],
+			[
+				"grupe_",
+				"grupe_array"
+			],
+			[
+				"arra",
+				"asarray"
+			],
+			[
+				"t_i",
+				"t_incl"
+			],
+			[
+				"l_s",
+				"l_std"
+			],
+			[
+				"sre",
+				"srednjav"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "grupa_2/read_mdp.f90",
+			"settings":
+			{
+				"buffer_size": 2174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"julia",
+				"Sublime-IJulia: Open New IJulia Console"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"filed",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"linter",
+				"User: Disable Python Flake8 Lint for this file"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"help",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Nevensky/Desktop/teorijska_kemija",
+		"/Users/Nevensky/Desktop/teorijska_kemija/grupa_1",
+		"/Users/Nevensky/Desktop/teorijska_kemija/grupa_2"
+	],
+	"file_history":
+	[
+		"/Users/Nevensky/Desktop/teorijska_kemija/.gitignore",
+		"/Users/Nevensky/Desktop/teorijska_kemija/sftp-config.json",
+		"/Users/Nevensky/Desktop/teorijska_kemija/md.out",
+		"/Users/Nevensky/Desktop/teorijska_kemija/grupa_2/gaussrand.f90",
+		"/Users/Nevensky/Desktop/teorijska_kemija/grupa_2/read_mdp.f90",
+		"/Users/Nevensky/Desktop/teorijska_kemija/mdp.f90",
+		"/Users/Nevensky/Desktop/teorijska_kemija/MD.mdp",
+		"/Users/Nevensky/Desktop/teorijska_kemija/grupa_2/numbering.f90",
+		"/Users/Nevensky/Desktop/MD3/MDP/EM/em_l-bfgs.mdp",
+		"/Users/Nevensky/Desktop/MD3/MDP/EM/em_steep.mdp",
+		"/Users/Nevensky/Desktop/wB97XD_may_ccPVDZ.com",
+		"/Users/Nevensky/Desktop/jo3.py",
+		"/Users/Nevensky/Downloads/jo2-2.py",
+		"/Users/Nevensky/Desktop/teorijska_kemija/grupa_2/intro.f90",
+		"/Users/Nevensky/Desktop/umjetne-neuronske-mreze/main.tex",
+		"/Users/Nevensky/Desktop/kaliksareni-rad/main.tex",
+		"/Users/Nevensky/Desktop/PUBLIKACIJA/DSC_forma2/DC_NIT_14052102_25do500_N2.txt",
+		"/Users/Nevensky/Desktop/PUBLIKACIJA/DSC_forma2/forma2_dsc.xy",
+		"/Users/Nevensky/Desktop/profile.xvg",
+		"/Volumes/CEDA_X64FRE_EN-US_DV5/josipadiklic/1ZAD SERIJA/1.Rd0.msr",
+		"/Users/Nevensky/Desktop/Julia/gadflytut.jl",
+		"/Users/Nevensky/Desktop/pot.xvg",
+		"/Users/Nevensky/Desktop/Julia/plots_gadfly.jl",
+		"/Users/Nevensky/Google Drive/Diplomski rad/eksperimenti/strukture/PtCl2(bipy).cif",
+		"/Users/Nevensky/Desktop/MD2/umbrella_phcn/PREPARATION/run_preparation.sh",
+		"/Users/Nevensky/Desktop/MD2/umbrella_phcn/system.top",
+		"/Users/Nevensky/Desktop/MD2/umbrella_phcn/PREPARATION/#preparing inital box for umbrella sampling",
+		"/Users/Nevensky/Desktop/KRISTSUST/babel/index.babel",
+		"/Users/Nevensky/Desktop/KRISTSUST/old/index.html",
+		"/Users/Nevensky/Desktop/KRISTSUST/all.css",
+		"/Users/Nevensky/Desktop/KRISTSUST/index.html",
+		"/Users/Nevensky/Desktop/MD2/solvent_equilibration/potential.xvg",
+		"/Users/Nevensky/Desktop/MD2/solvent_equilibration/solvequilibration_analysis.py",
+		"/Users/Nevensky/Desktop/MD2/umbrella/umb/distout.py",
+		"/Users/Nevensky/Desktop/MD3/MDP/NPT/npt_0.mdp",
+		"/Users/Nevensky/Desktop/MD3/custom.top",
+		"/Users/Nevensky/Desktop/MD2/umbrella/dhk.itp",
+		"/Users/Nevensky/Desktop/MD2/solvent_equilibration/em_steep.mdp",
+		"/Users/Nevensky/Desktop/MD2/solvent_equilibration/nvt.mdp",
+		"/Users/Nevensky/Desktop/MD2/solvent_equilibration/npt.mdp",
+		"/Users/Nevensky/Desktop/MD3/MDP/NVT/nvt_0.mdp",
+		"/Users/Nevensky/Desktop/latex/polimf.tex",
+		"/Users/Nevensky/Google Drive/Other/NIT2013:2014/Cifovi i CGD/Forma4_Pitesa.cif",
+		"/Users/Nevensky/Google Drive/Other/NIT2013:2014/Cifovi i CGD/Forma2_Neven.cif",
+		"/Users/Nevensky/Desktop/test.txt",
+		"/Users/Nevensky/Google Drive/Other/NIT2013:2014/Cifovi i CGD/Forma2_Pitesa.cif",
+		"/Users/Nevensky/Desktop/MD3/MDP/em_steep.mdp",
+		"/Users/Nevensky/Desktop/MD3/MDP/NVT/nvt.mdp",
+		"/Users/Nevensky/Desktop/MD3/MDP/Production_MD/md.mdp",
+		"/Users/Nevensky/Desktop/MD3/MDP/NPT/npt.mdp",
+		"/Users/Nevensky/Desktop/MD3/test.jl",
+		"/Users/Nevensky/Desktop/MD3/untitled.py",
+		"/Volumes/External HD/Apps/Gauss View/komentar.txt",
+		"/Users/Nevensky/Desktop/uga.py",
+		"/Users/Nevensky/Desktop/MD3/gen_barinput.py",
+		"/Users/Nevensky/Desktop/MD3/importbar.py",
+		"/Users/Nevensky/Desktop/latex/car-parinello.tex",
+		"/Users/Nevensky/Desktop/Python/hartreefock.py",
+		"/Users/Nevensky/Desktop/MD3/bin.py",
+		"/Users/Nevensky/Desktop/MD2/dhk.xyz",
+		"/Users/Nevensky/Desktop/tpit/1_cp6.in",
+		"/Users/Nevensky/Desktop/tpit/2_cp6.in",
+		"/Users/Nevensky/Desktop/tpit/1_cp5.in",
+		"/Users/Nevensky/Desktop/tpit/2_cp5.in",
+		"/Users/Nevensky/Desktop/tpit/1_cp4.in",
+		"/Users/Nevensky/Desktop/tpit/2_cp4.in",
+		"/Users/Nevensky/Desktop/tpit/2_cp3.in",
+		"/Users/Nevensky/Desktop/tpit/1_cp3.in",
+		"/Users/Nevensky/Desktop/tpit/2_cp2.in",
+		"/Users/Nevensky/Desktop/tpit/1_cp2.in",
+		"/Users/Nevensky/Desktop/tpit/1_cp1.in",
+		"/Users/Nevensky/Desktop/tpit/2_cp1.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol7.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol6.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol1.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol4.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol5.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol2.in",
+		"/Users/Nevensky/Downloads/examples_cp/h2o_mol3.in",
+		"/Users/Nevensky/Downloads/exercises_cp/ex1/tmp/cp.pos",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/o2-us-para-pbe-6.in",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/out/o2.pos",
+		"/Users/Nevensky/Library/Application Support/Sublime Text 3/Packages/User/latex(pygments)",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/out/o2.vel",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/out/o2_53.save/K00001/lambda01.dat",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/out/o2.pol",
+		"/Users/Nevensky/Desktop/tpit/vcrelac_check.py",
+		"/Users/Nevensky/Desktop/cp1-tpit.in",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/o2-us-para-pbe-2.in",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/o2-us-para-pbe-3.in",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/o2-us-para-pbe-5.in",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/o2-us-para-pbe-4.in",
+		"/Users/Nevensky/Desktop/espresso-5.4.0/QE_test/cp_o2/o2-us-para-pbe-1.in",
+		"/Users/Nevensky/Desktop/latex/chemformula.tex",
+		"/Users/Nevensky/Desktop/latex/home.tex",
+		"/Users/Nevensky/Desktop/latex/chem.tex",
+		"/Users/Nevensky/Desktop/latex/chemfig.tex",
+		"/Users/Nevensky/Desktop/latex/thermcycle.tex",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/settings.py",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/Slater.py",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/hartree_fock.py",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/NEB.py",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/IO/Cube.py",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/IO/XYZ.py",
+		"/Users/Nevensky/Downloads/PyQuante-1.6.5/PyQuante/Ints.py",
+		"/Users/Nevensky/Desktop/bokeh-realtime.py",
+		"/Users/Nevensky/Desktop/EDI_S3/python/pes_parse.py",
+		"/Users/Nevensky/Downloads/rt_tddft_scripts/nw_rtparse.py",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/CIF/forma1.abnnapht.cif",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 2/alphaschiff_Seena.cif",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 2/betaschiff_Rubcic.cif",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/forma1.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/forma2.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/forma3.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/forma4.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-025.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-026.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-027.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-028.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-029.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-030.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-031.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-032.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-033.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-034.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-035.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-036.xy",
+		"/Users/Nevensky/Desktop/VPANK/VAP_cetvrtak_vjezba 3/XRD/xy/z-037.xy"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"read",
+			"rando",
+			"struc",
+			"ingen",
+			"call",
+			" ",
+			"  ",
+			"    ",
+			",",
+			"/home/neven/umbrella_phcn/",
+			"/home/studos/ngolenic/umbrella_phcn_200kJ/",
+			"mass",
+			"ready",
+			"link",
+			" II.",
+			" II ",
+			"_geom_special_details",
+			"set_atom_info",
+			"multipl",
+			"make_frag_atom_for_cell_atom",
+			"set_IT_symbol",
+			"\t",
+			"}",
+			"\t",
+			"print(len",
+			"tempera",
+			"restrain",
+			"lambdas",
+			"impor",
+			"import_mdp",
+			"temp_lamb",
+			"import",
+			"len",
+			"\",",
+			",",
+			"print",
+			"{1}",
+			"{0}",
+			"'",
+			"    ",
+			"last",
+			"    ",
+			"l",
+			"č",
+			"RED",
+			"YELLOW",
+			",",
+			"_J",
+			"0.73",
+			"0.00580532 ",
+			"mint",
+			"red1",
+			"mint",
+			"inline",
+			"\\ref",
+			"planewave",
+			"col",
+			"Package minted Error: You must invoke LaTeX with the -shell-escape flag",
+			"'",
+			"350",
+			"tp",
+			"_",
+			",",
+			"evp",
+			"./",
+			".",
+			"M",
+			"mass",
+			"dens",
+			"-",
+			"\"",
+			",",
+			" ",
+			"      ",
+			";",
+			";\n",
+			",",
+			";",
+			";\n",
+			";",
+			",",
+			"frequen",
+			"freq",
+			"16678",
+			"1.6678",
+			"16678",
+			"    ",
+			"wdv",
+			"vdv",
+			"BLAS",
+			"BLAS_LIB",
+			"acceler",
+			"-lnwclapack",
+			"lmp2",
+			"Nevensky",
+			"tags",
+			"post_id",
+			"nista",
+			"sort_order",
+			"ref",
+			" ",
+			"../$FREE_ENERGY/hek_na_mecn.top",
+			"../$FREE_ENERGY/hek_na_mecn_em.gro",
+			"sum",
+			"np.sum",
+			"mdrun",
+			"sc-power",
+			"/../",
+			"Methane/",
+			"Methane",
+			"exclu",
+			"6\t 3\t 3",
+			"8\t 4\t 4",
+			"input",
+			"}",
+			"{",
+			"raw_",
+			"den",
+			"zastupljenost",
+			"]{\\",
+			"t[",
+			"1.25",
+			"1.5",
+			"analiza/koordinacija ",
+			"&& ./analiza.sh ",
+			"analiza/kordinacija",
+			"\\\\",
+			"ligand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t",
+			" ",
+			".",
+			"",
+			" \\textbf{II}.",
+			" \\textbf{II} ",
+			",",
+			"},",
+			",",
+			"},{",
+			"str(len",
+			" = {}\",",
+			"%s\",",
+			"\",\"",
+			",\"",
+			"\"",
+			"({1})",
+			"({0})",
+			"",
+			"\t",
+			"MAGENTA",
+			"RED",
+			"','",
+			"",
+			"350(1,6)",
+			"tp1",
+			"tp_\\1",
+			"tp_1",
+			"\\_",
+			"','",
+			",'",
+			"evp Desktop/tpit",
+			"scp vpfk:/home/studos/tpitesa/CARPARRINELO/",
+			"/home/studos/tpitesa/CARPARRINELO/",
+			"/home/studos/tpitesa/CARPARRINELO",
+			"",
+			".",
+			"\t",
+			"      ",
+			"\n",
+			"",
+			".",
+			"\t",
+			"\n",
+			"",
+			"\t",
+			".",
+			" ",
+			"Nev",
+			"\t",
+			"$FREE_ENERGY/../hek_na_mecn.top",
+			"$FREE_ENERGY/../hek_na_mecn_em.gro",
+			"math.fsum",
+			"math.sum",
+			"gmx mdrun",
+			"/",
+			"../",
+			"raw_input",
+			"\\}",
+			"\\{",
+			"zastupljenost / \\%",
+			"}]{\\",
+			"t[\\textbf{",
+			"1.5",
+			"1.25",
+			"",
+			"kompleks",
+			"torzije",
+			"kutovi",
+			"veze",
+			"nevezne",
+			"148",
+			"166",
+			"184",
+			"175",
+			"160",
+			"154",
+			"145",
+			"166",
+			"154",
+			"142",
+			"148",
+			"166",
+			"184",
+			"145",
+			"160",
+			"175",
+			"166",
+			"154",
+			"142",
+			"",
+			"NO3",
+			"I",
+			"Cl",
+			"Br",
+			"}^{-}",
+			"$\\mathrm{ClO-}_4^{-}$",
+			"$\\mathrm{Br-}^{-1}$",
+			"$\\mathrm{NO3-}^{-1}$",
+			"$\\mathrm{I-}^{-1}$",
+			"$\\mathrm{Cl-}^{-1}$",
+			"\\textbf{l444}",
+			"\\textbf{l443}",
+			"\\textbf{l442}",
+			"\\textbf{l441}",
+			"$E / \\mathrm{kJmol^{-1}}$",
+			"$\\sigma(E) / \\mathrm{kJmol^{-1}}$",
+			"s",
+			"",
+			"$kJmol^{-1}$",
+			"\\it{\\sigma(E)} / kJmol^{-1}",
+			"\\it{E} / kJmol^{-1}",
+			"it",
+			"\\textit{\\sigma}",
+			"\\textit{E}",
+			"kJmol^{-1}",
+			"'H",
+			"veza'",
+			"kut'",
+			" kut",
+			" veza",
+			"O",
+			"",
+			"H",
+			"no3",
+			"l442",
+			"l443",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "grupa_2/read_mdp.f90",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								639
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Fortran/grammars/FortranModern.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "teorijska_kemija_vjezbe.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

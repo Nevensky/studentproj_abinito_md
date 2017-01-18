@@ -1,10 +1,6 @@
 module read_mdp
   implicit none
-  save      ! cemu ove dvije var sluze?
-            ! Implicit none sluzi kao poruka compileru da 
-            !  svaka varijabla mora biti definirana. 
-            ! Save sluzi da se ne pobrisu podaci nakon koristenja
-            ! drugih modula ili podrutina
+  save ! Save sluzi da se ne pobrisu podaci nakon koristenja drugih modula ili podrutina
   contains 
   
   subroutine mdp_vars

@@ -27,11 +27,11 @@ SUBROUTINE numbering
 REWIND(56)
 
 DO N=1, i+1
-    READ (50,*)
+    READ (56,*)
 END DO
 
-DO N=1, n_atoms
-    IF 
+! DO N=1, n_atoms
+!     IF 
 
 
 
